@@ -19,7 +19,7 @@ My name is Lily Hernandez, and I earned my bachelor’s degree in Information Sc
 The goals of this project are to analyze physiological signals during pain and no-pain conditions, identify meaningful differences between the two groups, create visualizations, and better understand how physiological data may be used to recognize pain.
 
 ## About My Advisor
-My research advisor is Dr. Shaun Canavan, an Associate Professor in the Computer Science and Engineering Department at the University of South Florida. His research focuses on computer vision, pattern recognition, image processing, affective computing, biometrics, machine learning, and multimodal human behavior analysis. His work also explores applications in areas such as medicine and health, security, entertainment, and education.
+My research advisor is Dr. Shaun Canavan, an Associate Professor in the Bellini College of Artificial Intelligence, Cybersecurity, and Computing at the University of South Florida. His research focuses on computer vision, pattern recognition, image processing, affective computing, biometrics, machine learning, and multimodal human behavior analysis. His work also explores applications in areas such as medicine and health, security, entertainment, and education.
 
 [Visit Dr. Shaun Canavan's website](https://scanavan.github.io/)
 
