@@ -28,7 +28,7 @@ My research advisor is Dr. Shaun Canavan, an Associate Professor in the Bellini 
 My research project focuses on analyzing physiological signal data collected during pain and no-pain conditions.
 The goal of the project is to clean and organize the data, compare different physiological signals, calculate descriptive statistics, create visualizations, and identify patterns between pain and no-pain conditions.
 
-[My Final Report](files/DREAM Student Progress Report Lily Hernandez.docx)
+[My Final Report](files/FinalReport.pdf)
 
 ## My Blog
 
